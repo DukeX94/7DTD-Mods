@@ -1,0 +1,10 @@
+<configs>
+
+	<append xpath="/recipes">
+		<recipe name="oldCash" count="500" craft_area="workbench" > <!--tags="learnable"-->
+			<ingredient name="resourcePaper" count="250"/>
+        	<ingredient name="modDyeGreen" count="1"/>
+		</recipe>
+	</append>
+
+</configs>
