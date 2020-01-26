@@ -10,17 +10,17 @@ Wie installiere ich die Mods?
 - Und packe den Inhalt dieses Repo. in deinen Mods-Ordner.
 
 - Du Solltest diese Ordner-Struktur nun haben:
-7 Days To Die
-     -->  \Mods
-               -->
-                    Bdubs Vehicles
-                    CraftableSolarPanel
-                    Drconfused_MotorTools_Modifiers
-                    harvestable zombies
-                    JRB_ZombieLootDrop_15
-                    OldCash Recipe
-                    S420_SimpleUI-BiggerBackpack120-PlayerBuiltStorage
-                    SMXhud
+7 Days To Die\n
+     -->  \Mods\n
+               -->\n
+                    Bdubs Vehicles\n
+                    CraftableSolarPanel\n
+                    Drconfused_MotorTools_Modifiers\n
+                    harvestable zombies\n
+                    JRB_ZombieLootDrop_15\n
+                    OldCash Recipe\n
+                    S420_SimpleUI-BiggerBackpack120-PlayerBuiltStorage\n
+                    SMXhud\n
 
 
 
