@@ -10,7 +10,7 @@ Wie installiere ich die Mods?
 - Und packe den Inhalt dieses Repo. in deinen Mods-Ordner.
 
 - Du Solltest diese Ordner-Struktur nun haben:
-'''7 Days To Die
+```7 Days To Die
      -->  \Mods
                -->
                     Bdubs Vehicles
@@ -23,5 +23,5 @@ Wie installiere ich die Mods?
                     SMXhud
 
 
-'''
+```
 - **Wenn dies der Fall ist kann du nun auf unseren 7 Days to Die Server wieder verbinden und die Mods geniesen. :)**
