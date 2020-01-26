@@ -4,7 +4,7 @@
 
 Wie installiere ich die Mods?
 - Spiel muss geschlossen sein.
-- Lade dir dieses Repo. herunter.
+- Lade dir dieses Repo. herrunter.
 - Navigiere nun in dein Steam-Verzeichniss ("Steam/steamapps/common/7 Days To Die").
 - Wenn **NICHT** vorhanden erstelle einen Ordner mit den Namen "Mods" (ohne "").
 - Und packe den Inhalt dieses Repo. in deinen Mods-Ordner.
